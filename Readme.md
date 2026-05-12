@@ -57,7 +57,7 @@ The project is organized into a modular structure to ensure clarity and ease of 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Omer-alt/Climate-AI.git
+    git clone https://github.com/Anonymes-237/Climate-ML.git
     cd Climate-AI
     ```
 
